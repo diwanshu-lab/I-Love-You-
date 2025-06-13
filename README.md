@@ -12,7 +12,7 @@ A beautiful, heart-warming web animation designed to express your love in the mo
 
 ## 📸 Preview
 
-![Heart Animation Preview](https://github.com/user-attachments/assets/66a150b3-beaf-4501-a1e1-65f1e24e37c8)
+![Heart Animation Preview](https://github.com/user-attachments/assets/92fb89ba-5b5b-42fd-8a26-c0858edbe53e)
 
 ---
 
