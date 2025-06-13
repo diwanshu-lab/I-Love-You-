@@ -137,7 +137,7 @@ Your emotions, beautifully animated in code. 💖
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e772d4e3-6874-4c42-9f38-282b31507a50" width="150px" alt="profile" />
+      <img src="https://github.com/diwanshu-lab/All-Image/blob/dc9a2c2896d2a9a0ce8c4dd8c090e5e68a2ec6be/profile%20pic.jpg" width="150px" alt="profile" />
       <br/>
       Diwanshu Yadav
       <br/>
